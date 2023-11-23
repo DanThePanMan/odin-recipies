@@ -1,0 +1,22 @@
+*{
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: blanchedalmond;
+}
+
+#bigTitle{
+    box-sizing: border-box;
+    font-size: 50px;
+    color:blue;
+    margin: 55px;
+    
+}
+
+.list{ /*why doesnt this background color fucking work*/
+    width: auto;
+    height: auto;
+    font-size: 50px;
+    margin: auto;
+    background-color: grey;
+}
